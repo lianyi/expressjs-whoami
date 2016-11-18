@@ -2,7 +2,7 @@
 
 ## Request Header Parser Microservice
 
-Hosted at [http://_.herokuapp.com/whoami](http://_.herokuapp.com/whoami)
+Hosted at [https://expressjs-whoami.herokuapp.com/whoami](https://expressjs-whoami.herokuapp.com/whoami)
 
 Example
 
